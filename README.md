@@ -87,6 +87,9 @@ void yyerror(char *s) {
 
 <img width="620" height="229" alt="image" src="https://github.com/user-attachments/assets/52276415-5b85-4b3f-81d8-8285ab1b0a2b" />
 
+## invalid Expression 
+
+<img width="433" height="287" alt="image" src="https://github.com/user-attachments/assets/b0daf79c-00d9-486a-af5d-fac45e081e5e" />
 
 ## RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
